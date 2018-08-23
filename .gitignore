@@ -1,9 +1,0 @@
-#Custom
-output
-pelicanconf_local.py
-
-#Python
-*.py[cod]
-
-#C
-*.so
